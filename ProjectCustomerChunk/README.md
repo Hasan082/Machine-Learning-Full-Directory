@@ -5,6 +5,8 @@
 🔗 **Tech:** Python · Flask · Scikit-Learn · Pandas · Bootstrap
 🎯 **Focus:** ML → Production → UX
 
+### 👉 **This is not just a model — it’s a system.**
+
 ---
 
 ## 🚀 Project Overview
@@ -70,8 +72,8 @@ Risk Level: Low
 ## ⚙️ How to Run Locally
 
 ```bash
-git clone https://github.com/<your-username>/customer-churn-prediction-ml.git
-cd customer-churn-prediction-ml
+git clone https://github.com/Hasan082/Machine-Learning-Full-Directory.git
+cd ProjectCustomerChunk
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -111,25 +113,12 @@ Applicable to:
 
 ---
 
-## 🚧 Future Improvements
-
-* 🔁 sklearn Pipeline integration
-* 🌲 Tree-based models (Random Forest / XGBoost)
-* 📈 Feature importance visualization
-* 🧠 SHAP explanations
-* ☁️ Cloud deployment (Render / AWS)
-* 🔐 Authentication & role-based access
-
----
-
 ## 👨‍💻 Why This Project Matters
 
 * Practical ML deployment
 * Clean backend architecture
 * UX-aware ML predictions
 * Real-world problem solving
-
-👉 **This is not just a model — it’s a system.**
 
 ---
 
